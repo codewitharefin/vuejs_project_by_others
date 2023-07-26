@@ -1,0 +1,1 @@
+https://github.com/thesalahrand/032-mastering-vue-js-ostad-self-practice/tree/basic-carousel
